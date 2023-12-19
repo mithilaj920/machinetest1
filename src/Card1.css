@@ -33,6 +33,20 @@
   background-color: #e74c3c; 
   color: #fff;
 }
+@media (max-width: 440px) {
+  .mb-2{
+    margin: 0px !important;
+  }
 
+ 
+}
+@media (max-width: 540px) {
+  .mb-2{
+    margin: 0px !important;
+  }
+
+ 
+}
+  
   
   

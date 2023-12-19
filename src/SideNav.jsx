@@ -68,7 +68,7 @@ const SideNav = () => {
     },
   ];
   return (
-    <div>
+    <div className="main-div">
       <header style={{ backgroundColor: "#e3f1fe", display: "flex" }}>
         <img src={Image1} alt="" width={"110px"} height={"110px"} />
         <div style={{ marginLeft: "auto" }}>
